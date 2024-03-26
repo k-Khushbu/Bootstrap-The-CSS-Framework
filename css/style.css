@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(235, 127, 50);
+}
+
+.row{
+    border-bottom: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: lightgreen;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.span{
+    border: 1px solid black;
+    margin-bottom: 6px;
+}
+
